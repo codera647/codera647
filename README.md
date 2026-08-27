@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0f172a,100:1e1b4b&height=220&section=header&text=Abdul%20Moiz&fontSize=56&fontColor=38bdf8&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Team%20Lead%20%E2%80%A2%20LLM%20%26%20GenAI%20Engineer%20%E2%80%A2%20Data%20Scientist&descAlignY=58&descSize=18&descColor=94a3b8" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=60&lines=🤖+Building+production+AI+systems;🧬+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+MLOps;👁️+Computer+Vision+%7C+NLP+%7C+Robotics;🚀+From+research+to+real-world+impact;📊+CGPA+3.91%2F4.0+%7C+NLP+%26+CV+Specialist" alt="Typing SVG"/>
-</div>
+<h1>⚡ Abdul Moiz ⚡</h1>
+
+<h3>🤖 AI/ML Team Lead &nbsp;·&nbsp; 🧬 LLM &amp; GenAI Engineer &nbsp;·&nbsp; 📊 Data Scientist</h3>
 
 <br/>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=codera647&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
   &nbsp;
   <a href="mailto:moiz44386@gmail.com">
@@ -19,12 +17,38 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/abdulmoiz-ai">
+  <a href="https://linkedin.com/in/abdul-moiz-codera">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍_Islamabad,_Pakistan-0ea5e9?style=for-the-badge"/>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/🏢_Role-AI%2FML_Team_Lead_%40_kinetiq-38bdf8?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_Location-Islamabad%2C_Pakistan-0ea5e9?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓_CGPA-3.91_%2F_4.0-22c55e?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs_%26_RAG-Expert-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Agentic_AI-Expert-7C3AED?style=flat-square&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-Advanced-EF4444?style=flat-square&logo=pytorch&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Computer_Vision-Advanced-0891b2?style=flat-square&logo=opencv&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MLOps-Advanced-0891b2?style=flat-square&logo=mlflow&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NLP-Advanced-0891b2?style=flat-square&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Full--Stack_AI-Proficient-16a34a?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
@@ -41,7 +65,7 @@ specializes : LLMs · RAG · Agentic AI · Computer Vision · MLOps · Full-Stac
 open_to     : Research Collaborations & Exciting AI Projects
 ```
 
-> 💡 Experienced AI/ML Engineer & Team Lead building and deploying **Data Science**, **ML**, and **LLM/RAG** solutions — from EDA and feature engineering all the way to **production model deployment**. Skilled at bridging research with real-world client impact.
+> 💡 Experienced AI/ML Engineer & Team Lead building and deploying **Data Science**, **ML**, and **LLM/RAG** solutions — from EDA and feature engineering all the way to **production model deployment**. Hands-on experience presenting technical solutions to clients and stakeholders.
 
 ---
 
@@ -143,34 +167,24 @@ open_to     : Research Collaborations & Exciting AI Projects
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codera647&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=7" width="100%"/>
-</div>
-
----
-
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codera647&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true" height="172"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codera647&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8" height="172"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codera647&theme=algolia&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b" width="60%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codera647&theme=algolia&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b" width="55%"/>
-</div>
 
----
+| 📌 Metric | 🔢 Value |
+|---|---|
+| 🏫 Education | B.S. Artificial Intelligence — Sir Syed CASE |
+| 🎓 CGPA | 3.91 / 4.0 |
+| 💼 Experience | AI/ML Engineer → Team Lead (2024–Present) |
+| 🧪 Projects | RAG Platforms · CV Pipelines · Agentic Systems |
+| 🌍 Open Source | Actively contributing |
 
-## 🌊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codera647&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&hide_border=true&area_color=1e3a5f" width="100%"/>
 </div>
 
 ---
@@ -236,11 +250,12 @@ Real-time gold/silver price scraping, pricing calculations & analytics dashboard
 
 ---
 
-<!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,60:0f172a,100:030712&height=130&section=footer&animation=fadeIn" width="100%"/>
-</div>
 
-<div align="center">
-  <b>⚡ "Building tomorrow's intelligence, one model at a time." ⚡</b>
+🌊 &nbsp; ⚡ &nbsp; 🤖 &nbsp; 🧬 &nbsp; 🚀 &nbsp; 🌊 &nbsp; ⚡ &nbsp; 🤖 &nbsp; 🧬 &nbsp; 🚀 &nbsp; 🌊
+
+**"Building tomorrow's intelligence, one model at a time."**
+
+🌊 &nbsp; ⚡ &nbsp; 🤖 &nbsp; 🧬 &nbsp; 🚀 &nbsp; 🌊 &nbsp; ⚡ &nbsp; 🤖 &nbsp; 🧬 &nbsp; 🚀 &nbsp; 🌊
+
 </div>
