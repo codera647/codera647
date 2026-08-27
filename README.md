@@ -2,7 +2,7 @@
 
 <h1>⚡ Abdul Moiz ⚡</h1>
 
-<h3>🤖 Robotics Engineer &nbsp;·&nbsp; 🧬 LLM &amp; GenAI Engineer &nbsp;·&nbsp; 📊 Machine Learning Engineer</h3>
+<h3>🧬 LLM &amp; GenAI Engineer &nbsp;·&nbsp; 📊 Machine Learning &nbsp;·&nbsp; 🤖 Robotics Engineer</h3>
 
 <br/>
 
@@ -23,11 +23,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/🏢_Role-AI%2FML_Team_Lead_%40_kinetiq-38bdf8?style=for-the-badge"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/📍_Location-Islamabad%2C_Pakistan-0ea5e9?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓_CGPA-3.91_%2F_4.0-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏫_University-Sir_Syed_CASE-6366f1?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔬_Thesis-Multi--Tenant_RAG_System-8b5cf6?style=for-the-badge"/>
 </p>
 
 <br/>
@@ -56,8 +56,6 @@
 
 ```yaml
 name        : Abdul Moiz
-role        : AI/ML Team Lead @ kinetiq  [Jul 2026 – Present]
-education   : B.S. Artificial Intelligence — CGPA 3.91 / 4.0
 institution : Sir Syed CASE Institute of Technology (2022–2026)
 thesis      : "A Scalable Multi-Tenant RAG System with GPU-Optimized Retrieval"
 location    : Islamabad, Pakistan
@@ -65,7 +63,7 @@ specializes : LLMs · RAG · Agentic AI · Computer Vision · MLOps · Full-Stac
 open_to     : Research Collaborations & Exciting AI Projects
 ```
 
-> 💡 Experienced AI/ML Engineer & Team Lead building and deploying **Data Science**, **ML**, and **LLM/RAG** solutions — from EDA and feature engineering all the way to **production model deployment**. Hands-on experience presenting technical solutions to clients and stakeholders.
+> 💡 Experienced AI/ML Engineer building and deploying **Data Science**, **ML**, and **LLM/RAG** solutions — from EDA and feature engineering all the way to **production model deployment**. Hands-on experience presenting technical solutions to clients and stakeholders.
 
 ---
 
@@ -146,24 +144,9 @@ open_to     : Research Collaborations & Exciting AI Projects
 
 ## 📊 Skill Proficiency
 
-```
-  SKILL                    LEVEL                         RATING
-  ─────────────────────────────────────────────────────────────
-  🐍 Python              ████████████████████  98%  ┃ Expert
-  🤖 LLMs & RAG          ███████████████████░  96%  ┃ Expert
-  ⛓️  LangChain / Graph   ██████████████████░░  92%  ┃ Expert
-  💬 Prompt Engineering  ██████████████████░░  91%  ┃ Expert
-  🔥 PyTorch             █████████████████░░░  88%  ┃ Advanced
-  🧬 NLP                 █████████████████░░░  87%  ┃ Advanced
-  🤗 Hugging Face        ████████████████░░░░  85%  ┃ Advanced
-  ⚡ FastAPI             ████████████████░░░░  85%  ┃ Advanced
-  👁️  Computer Vision    ███████████████░░░░░  82%  ┃ Advanced
-  🦾 Agentic AI          ███████████████░░░░░  80%  ┃ Advanced
-  ☁️  Cloud (AWS/GCP/Az)  ██████████████░░░░░░  78%  ┃ Proficient
-  🐳 Docker / K8s        ██████████████░░░░░░  76%  ┃ Proficient
-  ⚛️  React / Next.js     █████████████░░░░░░░  72%  ┃ Proficient
-  📊 Data Visualization  █████████████░░░░░░░  72%  ┃ Proficient
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codera647/codera647/master/skills.svg" width="100%" alt="Skill Proficiency Bars"/>
+</div>
 
 ---
 
@@ -180,8 +163,7 @@ open_to     : Research Collaborations & Exciting AI Projects
 | 📌 Metric | 🔢 Value |
 |---|---|
 | 🏫 Education | B.S. Artificial Intelligence — Sir Syed CASE |
-| 🎓 CGPA | 3.91 / 4.0 |
-| 💼 Experience | AI/ML Engineer → Team Lead (2024–Present) |
+| 💼 Experience | AI/ML Engineer (2024–Present) |
 | 🧪 Projects | RAG Platforms · CV Pipelines · Agentic Systems |
 | 🌍 Open Source | Actively contributing |
 
