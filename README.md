@@ -2,7 +2,7 @@
 
 <h1>⚡ Abdul Moiz ⚡</h1>
 
-<h3>🤖 AI/ML Team Lead &nbsp;·&nbsp; 🧬 LLM &amp; GenAI Engineer &nbsp;·&nbsp; 📊 Data Scientist</h3>
+<h3>🤖 Robotics Engineer &nbsp;·&nbsp; 🧬 LLM &amp; GenAI Engineer &nbsp;·&nbsp; 📊 Machine Learning Engineer</h3>
 
 <br/>
 
