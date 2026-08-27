@@ -166,7 +166,7 @@ open_to     : Research Collaborations & Exciting AI / Robotics Projects
 ## 📊 Skill Proficiency
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codera647/codera647/master/skills.svg" width="100%" alt="Skill Proficiency Bars"/>
+  <img src="https://raw.githubusercontent.com/codera647/codera647/master/skills (2).svg" width="100%" alt="Skill Proficiency Bars"/>
 </div>
 
 ---
