@@ -2,7 +2,7 @@
 
 <h1>⚡ Abdul Moiz ⚡</h1>
 
-<h3>🧬 LLM &amp; GenAI Engineer &nbsp;·&nbsp; 🤖 Robotics Engineer &nbsp;·&nbsp; 📊 Machine Learning Engineer</h3>
+<h3>🧬 LLM &amp; GenAI Engineer &nbsp;·&nbsp; 🤖 Robotics Engineer &nbsp;·&nbsp; 📊 AI/ML Engineer and Architect</h3>
 
 <br/>
 
